@@ -1,4 +1,6 @@
-number=42
+car = 'subaru'
+print("Is car == 'subaru'? I predict True.")
+print(car == 'subaru')
 
-neg_number = 0 - number
-print (neg_number)
+print("\nIs car == 'audi'? I predict False.")
+print(car == 'audi')
