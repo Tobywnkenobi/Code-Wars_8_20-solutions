@@ -3,7 +3,7 @@
 bool=True
 def bool_to_word(boolean): 
     if boolean:
-        return "yes"
+        return "Yes"
     else: 
         return "No"
 
