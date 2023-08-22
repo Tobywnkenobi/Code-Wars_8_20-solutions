@@ -2,6 +2,8 @@
 # false
 bool=True
 def bool_to_word(boolean): 
-    if bool == True:
-        print ("yes")
-    elif print ("No"):
+    if boolean:
+        return "yes"
+    else: 
+        return "No"
+
